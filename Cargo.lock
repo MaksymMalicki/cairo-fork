@@ -3563,6 +3563,8 @@ name = "sierra-compile-json"
 version = "2.8.4"
 dependencies = [
  "anyhow",
+ "cairo-lang-compiler",
+ "cairo-lang-lowering",
  "cairo-lang-sierra",
  "cairo-lang-sierra-to-casm",
  "clap",

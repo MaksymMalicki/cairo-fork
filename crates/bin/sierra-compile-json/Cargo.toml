@@ -13,3 +13,5 @@ serde_json.workspace = true
 
 cairo-lang-sierra = { path = "../../cairo-lang-sierra", version = "~2.8.4" }
 cairo-lang-sierra-to-casm = { path = "../../cairo-lang-sierra-to-casm", version = "~2.8.4" }
+cairo-lang-compiler = { path = "../../cairo-lang-compiler", version = "~2.8.4" }
+cairo-lang-lowering = { path = "../../cairo-lang-lowering", version = "~2.8.4" }
