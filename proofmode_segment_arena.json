@@ -1,0 +1,1004 @@
+{
+    "prime": "0x800000000000011000000000000000000000000000000000000000000000001",
+    "compiler_version": "2.8.4",
+    "bytecode": [
+        "0x40780017fff7fff",
+        "0x4",
+        "0x48027ffd7ff98000",
+        "0x48027ffe7ff98000",
+        "0x48027fff7ff98000",
+        "0x400280007ff97ffd",
+        "0x482480017ffe8000",
+        "0x1",
+        "0x400280017ff97fff",
+        "0x400280027ff97ffe",
+        "0x484480017ffd8000",
+        "0x3",
+        "0x48307fff7ffb8000",
+        "0x480a7ffc7fff8000",
+        "0x480a7ffd7fff8000",
+        "0x480080007ffd8000",
+        "0x480680017fff8000",
+        "0x0",
+        "0x402780017ff98003",
+        "0x3",
+        "0x1104800180018000",
+        "0x2d",
+        "0x40780017fff7fff",
+        "0x1",
+        "0x480a7ff87fff8000",
+        "0x480a80037fff8000",
+        "0x480a7ffa7fff8000",
+        "0x480a7ffb7fff8000",
+        "0x480680017fff8000",
+        "0x0",
+        "0x48127ff97fff8000",
+        "0x48127ff77fff8000",
+        "0x48127ff87fff8000",
+        "0x48127ff77fff8000",
+        "0x1104800180018000",
+        "0x36",
+        "0x40137ffa7fff8002",
+        "0x20680017fff7ffb",
+        "0x13",
+        "0x48127ff77fff8000",
+        "0x48127ff77fff8000",
+        "0x48127ff77fff8000",
+        "0x48127ff97fff8000",
+        "0x40137ff97fff8000",
+        "0x40137ffa7fff8001",
+        "0x1104800180018000",
+        "0xc0",
+        "0x48127ffb7fff8000",
+        "0x48127ffb7fff8000",
+        "0x48127ffb7fff8000",
+        "0x480a80027fff8000",
+        "0x480680017fff8000",
+        "0x0",
+        "0x480a80007fff8000",
+        "0x480a80017fff8000",
+        "0x208b7fff7fff7ffe",
+        "0x48127ff77fff8000",
+        "0x48127ff77fff8000",
+        "0x48127ff77fff8000",
+        "0x480a80027fff8000",
+        "0x480680017fff8000",
+        "0x1",
+        "0x48127ff97fff8000",
+        "0x48127ff97fff8000",
+        "0x208b7fff7fff7ffe",
+        "0x48297ffa80007ffb",
+        "0x20680017fff7fff",
+        "0x4",
+        "0x10780017fff7fff",
+        "0xf",
+        "0x400380007ffc7ffd",
+        "0x480280007ffa8000",
+        "0x400280027ffc7fff",
+        "0x482680017ffa8000",
+        "0x1",
+        "0x480a7ffb7fff8000",
+        "0x482680017ffc8000",
+        "0x3",
+        "0x482680017ffd8000",
+        "0x1",
+        "0x1104800180018000",
+        "0x800000000000010fffffffffffffffffffffffffffffffffffffffffffffff2",
+        "0x208b7fff7fff7ffe",
+        "0x480a7ffa7fff8000",
+        "0x480a7ffb7fff8000",
+        "0x480a7ffc7fff8000",
+        "0x480a7ffd7fff8000",
+        "0x208b7fff7fff7ffe",
+        "0x40780017fff7fff",
+        "0x4",
+        "0xa0680017fff8000",
+        "0x16",
+        "0x480280007ff58003",
+        "0x480280017ff58003",
+        "0x4844800180017ffe",
+        "0x100000000000000000000000000000000",
+        "0x483180017ffd7ff9",
+        "0x482480017fff7ffd",
+        "0x800000000000010fffffffffffffffff7ffffffffffffef0000000000000001",
+        "0x20680017fff7ffc",
+        "0x6",
+        "0x402480017fff7ffd",
+        "0xffffffffffffffffffffffffffffffff",
+        "0x10780017fff7fff",
+        "0x4",
+        "0x402480017ffe7ffd",
+        "0xf7ffffffffffffef0000000000000000",
+        "0x400280027ff57ffd",
+        "0x20680017fff7ffe",
+        "0x65",
+        "0x402780017fff7fff",
+        "0x1",
+        "0x400380007ff57ff9",
+        "0xa0680017fff8000",
+        "0x16",
+        "0x480280017ff58003",
+        "0x480280027ff58003",
+        "0x4844800180017ffe",
+        "0x100000000000000000000000000000000",
+        "0x483180017ffd7ffa",
+        "0x482480017fff7ffd",
+        "0x800000000000010fffffffffffffffff7ffffffffffffef0000000000000001",
+        "0x20680017fff7ffc",
+        "0x6",
+        "0x402480017fff7ffd",
+        "0xffffffffffffffffffffffffffffffff",
+        "0x10780017fff7fff",
+        "0x4",
+        "0x402480017ffe7ffd",
+        "0xf7ffffffffffffef0000000000000000",
+        "0x400280037ff57ffd",
+        "0x20680017fff7ffe",
+        "0x32",
+        "0x402780017fff7fff",
+        "0x1",
+        "0x400380017ff57ffa",
+        "0x48297ffa80017ff9",
+        "0xa0680017fff7fff",
+        "0x7",
+        "0x482480017fff8000",
+        "0x100000000000000000000000000000000",
+        "0x400280027ff57fff",
+        "0x10780017fff7fff",
+        "0xf",
+        "0x400280027ff57fff",
+        "0x482680017ff58000",
+        "0x3",
+        "0x480a7ff67fff8000",
+        "0x480a7ff77fff8000",
+        "0x480a7ff87fff8000",
+        "0x480680017fff8000",
+        "0x0",
+        "0x480a7ffb7fff8000",
+        "0x480a7ffc7fff8000",
+        "0x480a7ffd7fff8000",
+        "0x480a7ff97fff8000",
+        "0x208b7fff7fff7ffe",
+        "0x400380007ffb7ff9",
+        "0x480280017ffb8000",
+        "0x400280027ffb7fff",
+        "0x400280007ff87fff",
+        "0x400380017ff87ff9",
+        "0x480280027ff88000",
+        "0x400280007ffd7fff",
+        "0x482680017ff58000",
+        "0x3",
+        "0x480a7ff67fff8000",
+        "0x480a7ff77fff8000",
+        "0x482680017ff88000",
+        "0x3",
+        "0x482680017ff98000",
+        "0x1",
+        "0x480a7ffa7fff8000",
+        "0x482680017ffb8000",
+        "0x3",
+        "0x480a7ffc7fff8000",
+        "0x482680017ffd8000",
+        "0x1",
+        "0x1104800180018000",
+        "0x800000000000010ffffffffffffffffffffffffffffffffffffffffffffffa7",
+        "0x208b7fff7fff7ffe",
+        "0x40780017fff7fff",
+        "0x1",
+        "0x480680017fff8000",
+        "0x4f7074696f6e3a3a756e77726170206661696c65642e",
+        "0x400080007ffe7fff",
+        "0x482680017ff58000",
+        "0x4",
+        "0x480a7ff67fff8000",
+        "0x480a7ff77fff8000",
+        "0x480a7ffb7fff8000",
+        "0x40137ffa7fff8002",
+        "0x402580017ffa8003",
+        "0x1",
+        "0x1104800180018000",
+        "0x2b",
+        "0x48127ffb7fff8000",
+        "0x48127ffb7fff8000",
+        "0x48127ffb7fff8000",
+        "0x480a7ff87fff8000",
+        "0x480680017fff8000",
+        "0x1",
+        "0x480680017fff8000",
+        "0x0",
+        "0x480680017fff8000",
+        "0x0",
+        "0x480a80027fff8000",
+        "0x480a80037fff8000",
+        "0x208b7fff7fff7ffe",
+        "0x40780017fff7fff",
+        "0x1",
+        "0x480680017fff8000",
+        "0x4f7074696f6e3a3a756e77726170206661696c65642e",
+        "0x400080007ffe7fff",
+        "0x482680017ff58000",
+        "0x3",
+        "0x480a7ff67fff8000",
+        "0x480a7ff77fff8000",
+        "0x480a7ffb7fff8000",
+        "0x40137ffa7fff8000",
+        "0x402580017ffa8001",
+        "0x1",
+        "0x1104800180018000",
+        "0xf",
+        "0x48127ffb7fff8000",
+        "0x48127ffb7fff8000",
+        "0x48127ffb7fff8000",
+        "0x480a7ff87fff8000",
+        "0x480680017fff8000",
+        "0x1",
+        "0x480680017fff8000",
+        "0x0",
+        "0x480680017fff8000",
+        "0x0",
+        "0x480a80007fff8000",
+        "0x480a80017fff8000",
+        "0x208b7fff7fff7ffe",
+        "0x480a7ffa7fff8000",
+        "0x480a7ffc7fff8000",
+        "0x480a7ffb7fff8000",
+        "0x480a7ffd7fff8000",
+        "0x1104800180018000",
+        "0x4",
+        "0x10780017fff7fff",
+        "0xb2",
+        "0x48037ffd7ffc8002",
+        "0x48037ffe7ffc8003",
+        "0x48037fff7ffc8004",
+        "0x480380007ffa8000",
+        "0x4825800180018003",
+        "0x1",
+        "0x4828800080018000",
+        "0x480280017ffa8000",
+        "0x4846800180008000",
+        "0x3",
+        "0x48327fff80028000",
+        "0x400180027fff8004",
+        "0x400180017fff7ffd",
+        "0x400380007ffc8002",
+        "0x400380017ffc8003",
+        "0x4826800180048000",
+        "0x1",
+        "0x400280027ffc7fff",
+        "0x482680017ffa8000",
+        "0x2",
+        "0x480080007ffd8000",
+        "0x480a7ffd7fff8000",
+        "0x40337ffe80017ffd",
+        "0x1104800180018000",
+        "0xf",
+        "0x48307fff80007ffe",
+        "0x48317fff80008001",
+        "0x4844800180007fff",
+        "0x3",
+        "0x484480017fff8000",
+        "0xfd2",
+        "0x48127ff97fff8000",
+        "0x48327ffe7ffb8000",
+        "0x482680017ffc8000",
+        "0x3",
+        "0x48127ff87fff8000",
+        "0x48127ff67fff8000",
+        "0x208b7fff7fff7ffe",
+        "0x482b7ffc80007ffd",
+        "0x40780017fff7fff",
+        "0x3",
+        "0x20780017fff8000",
+        "0x6",
+        "0x480a7ffb7fff8000",
+        "0x480a80037fff8000",
+        "0x480a80037fff8000",
+        "0x208b7fff7fff7ffe",
+        "0x4845800180008000",
+        "0x3",
+        "0xa0780017fff8002",
+        "0x7",
+        "0x400380007ffb8001",
+        "0x402680017ffb7fff",
+        "0x1",
+        "0x10780017fff7fff",
+        "0x3",
+        "0x400a7ffb7fff7fff",
+        "0x480a7ffc7fff8000",
+        "0x4825800180007ffd",
+        "0x1",
+        "0x480a80017fff8000",
+        "0x48127ffb7fff8000",
+        "0x480a80037fff8000",
+        "0x480a80027fff8000",
+        "0x1104800180018000",
+        "0x4",
+        "0x480a80037fff8000",
+        "0x208b7fff7fff7ffe",
+        "0x480280007ff78002",
+        "0x4844800180018002",
+        "0x3",
+        "0x483280017ff88004",
+        "0x4800800280038004",
+        "0x482680017ff78004",
+        "0x1",
+        "0x4801800080017ffa",
+        "0x480380007ffc7ffa",
+        "0x480080017fff7ffd",
+        "0x480280017ffc7ffc",
+        "0x400680017fff7ffb",
+        "0x0",
+        "0x20680017fff7ffc",
+        "0xf",
+        "0x480080007fff8000",
+        "0x482480017fff8000",
+        "0x1",
+        "0x484480017fff8000",
+        "0x3",
+        "0x48307fff7ffa8001",
+        "0x4800800180007ffa",
+        "0x480080027fff8000",
+        "0x480180007ffe7ffa",
+        "0x402480017ff87fff",
+        "0x1",
+        "0x20680017fff7ffc",
+        "0x800000000000010fffffffffffffffffffffffffffffffffffffffffffffff6",
+        "0x48317ffd80007ff9",
+        "0x400080007ffe7fff",
+        "0x48287ff780007ffe",
+        "0x400280027ffc7ffc",
+        "0x40337fff80017ffb",
+        "0x20780017fff8001",
+        "0x7",
+        "0x482480017ffd8000",
+        "0x1",
+        "0x482680017ffc8000",
+        "0x3",
+        "0x208b7fff7fff7ffe",
+        "0x20780017fff7ffd",
+        "0xe",
+        "0x482680017ffa8000",
+        "0x1",
+        "0x48317fff80008000",
+        "0x400080017ffb7fff",
+        "0x482480017ffb8000",
+        "0x2",
+        "0x480a7ff87fff8000",
+        "0x480a7ff97fff8000",
+        "0x480a80007fff8000",
+        "0x480a80017fff8000",
+        "0x10780017fff7fff",
+        "0x32",
+        "0x4829800080007ffa",
+        "0x20680017fff7fff",
+        "0x4",
+        "0x402780017fff7fff",
+        "0x1",
+        "0x480080017ffc8000",
+        "0x480080027ffb8000",
+        "0x484480017fff8000",
+        "0x2aaaaaaaaaaaab05555555555555556",
+        "0x48307fff7ffd8000",
+        "0x480080037ff88000",
+        "0x480080047ff78000",
+        "0x484480017fff8000",
+        "0x4000000000000088000000000000001",
+        "0x48307fff7ffd8000",
+        "0x48307fff7ffb8000",
+        "0x48507ffe7ffa8000",
+        "0xa0680017fff8000",
+        "0xc",
+        "0x484680017ffa8000",
+        "0x800000000000011000000000000000000000000000000000000000000000000",
+        "0x402480017fff7ffc",
+        "0x800000000000011000000000000000000000000000000000000000000000000",
+        "0x4829800080007ffa",
+        "0x4826800180008000",
+        "0x1",
+        "0x40507fff7ffe7ffb",
+        "0x10780017fff7fff",
+        "0xf",
+        "0xa0680017fff8000",
+        "0xa",
+        "0x4846800180008000",
+        "0x800000000000011000000000000000000000000000000000000000000000000",
+        "0x482480017fff8000",
+        "0x800000000000011000000000000000000000000000000000000000000000000",
+        "0x40327fff7ffa7ffa",
+        "0x40527fff7ffa7ffb",
+        "0x10780017fff7fff",
+        "0x5",
+        "0x480a80007fff7ffc",
+        "0x48297ffa80008000",
+        "0x40527fff7ffa7ffb",
+        "0x482480017fee8000",
+        "0x5",
+        "0x480a7ff87fff8000",
+        "0x480a7ff97fff8000",
+        "0x480a80007fff8000",
+        "0x480a80017fff8000",
+        "0x482680017ffc8000",
+        "0x3",
+        "0x480a7ffd7fff8000",
+        "0x1104800180018000",
+        "0x800000000000010ffffffffffffffffffffffffffffffffffffffffffffff98",
+        "0x208b7fff7fff7ffe",
+        "0x48127ffb7fff8000",
+        "0x48127ffc7fff8000",
+        "0x48127ffa7fff8000",
+        "0x48127ffb7fff8000",
+        "0x48127ffb7fff8000",
+        "0x208b7fff7fff7ffe"
+    ],
+    "hints": [
+        [
+            2,
+            [
+                {
+                    "AllocFelt252Dict": {
+                        "segment_arena_ptr": {
+                            "Deref": {
+                                "register": "FP",
+                                "offset": -7
+                            }
+                        }
+                    }
+                }
+            ]
+        ],
+        [
+            22,
+            [
+                {
+                    "AllocSegment": {
+                        "dst": {
+                            "register": "AP",
+                            "offset": 0
+                        }
+                    }
+                }
+            ]
+        ],
+        [
+            70,
+            [
+                {
+                    "Felt252DictEntryInit": {
+                        "dict_ptr": {
+                            "Deref": {
+                                "register": "FP",
+                                "offset": -4
+                            }
+                        },
+                        "key": {
+                            "Deref": {
+                                "register": "FP",
+                                "offset": -3
+                            }
+                        }
+                    }
+                }
+            ]
+        ],
+        [
+            72,
+            [
+                {
+                    "Felt252DictEntryUpdate": {
+                        "dict_ptr": {
+                            "BinOp": {
+                                "op": "Add",
+                                "a": {
+                                    "register": "FP",
+                                    "offset": -4
+                                },
+                                "b": {
+                                    "Immediate": "0x3"
+                                }
+                            }
+                        },
+                        "value": {
+                            "Deref": {
+                                "register": "AP",
+                                "offset": -1
+                            }
+                        }
+                    }
+                }
+            ]
+        ],
+        [
+            90,
+            [
+                {
+                    "TestLessThan": {
+                        "lhs": {
+                            "Deref": {
+                                "register": "FP",
+                                "offset": -7
+                            }
+                        },
+                        "rhs": {
+                            "Immediate": "0x100000000000000000000000000000000"
+                        },
+                        "dst": {
+                            "register": "AP",
+                            "offset": 0
+                        }
+                    }
+                }
+            ]
+        ],
+        [
+            92,
+            [
+                {
+                    "DivMod": {
+                        "lhs": {
+                            "Deref": {
+                                "register": "FP",
+                                "offset": -7
+                            }
+                        },
+                        "rhs": {
+                            "Immediate": "0x100000000000000000000000000000000"
+                        },
+                        "quotient": {
+                            "register": "AP",
+                            "offset": 3
+                        },
+                        "remainder": {
+                            "register": "AP",
+                            "offset": 4
+                        }
+                    }
+                }
+            ]
+        ],
+        [
+            113,
+            [
+                {
+                    "TestLessThan": {
+                        "lhs": {
+                            "Deref": {
+                                "register": "FP",
+                                "offset": -6
+                            }
+                        },
+                        "rhs": {
+                            "Immediate": "0x100000000000000000000000000000000"
+                        },
+                        "dst": {
+                            "register": "AP",
+                            "offset": 0
+                        }
+                    }
+                }
+            ]
+        ],
+        [
+            115,
+            [
+                {
+                    "DivMod": {
+                        "lhs": {
+                            "Deref": {
+                                "register": "FP",
+                                "offset": -6
+                            }
+                        },
+                        "rhs": {
+                            "Immediate": "0x100000000000000000000000000000000"
+                        },
+                        "quotient": {
+                            "register": "AP",
+                            "offset": 3
+                        },
+                        "remainder": {
+                            "register": "AP",
+                            "offset": 4
+                        }
+                    }
+                }
+            ]
+        ],
+        [
+            137,
+            [
+                {
+                    "TestLessThan": {
+                        "lhs": {
+                            "Deref": {
+                                "register": "AP",
+                                "offset": 0
+                            }
+                        },
+                        "rhs": {
+                            "Immediate": "0x100000000000000000000000000000000"
+                        },
+                        "dst": {
+                            "register": "AP",
+                            "offset": -1
+                        }
+                    }
+                }
+            ]
+        ],
+        [
+            157,
+            [
+                {
+                    "Felt252DictEntryInit": {
+                        "dict_ptr": {
+                            "Deref": {
+                                "register": "FP",
+                                "offset": -5
+                            }
+                        },
+                        "key": {
+                            "Deref": {
+                                "register": "FP",
+                                "offset": -7
+                            }
+                        }
+                    }
+                }
+            ]
+        ],
+        [
+            159,
+            [
+                {
+                    "Felt252DictEntryUpdate": {
+                        "dict_ptr": {
+                            "BinOp": {
+                                "op": "Add",
+                                "a": {
+                                    "register": "FP",
+                                    "offset": -5
+                                },
+                                "b": {
+                                    "Immediate": "0x3"
+                                }
+                            }
+                        },
+                        "value": {
+                            "Deref": {
+                                "register": "AP",
+                                "offset": -1
+                            }
+                        }
+                    }
+                }
+            ]
+        ],
+        [
+            181,
+            [
+                {
+                    "AllocSegment": {
+                        "dst": {
+                            "register": "AP",
+                            "offset": 0
+                        }
+                    }
+                }
+            ]
+        ],
+        [
+            209,
+            [
+                {
+                    "AllocSegment": {
+                        "dst": {
+                            "register": "AP",
+                            "offset": 0
+                        }
+                    }
+                }
+            ]
+        ],
+        [
+            245,
+            [
+                {
+                    "GetSegmentArenaIndex": {
+                        "dict_end_ptr": {
+                            "Deref": {
+                                "register": "FP",
+                                "offset": -3
+                            }
+                        },
+                        "dict_index": {
+                            "register": "FP",
+                            "offset": 0
+                        }
+                    }
+                }
+            ]
+        ],
+        [
+            286,
+            [
+                {
+                    "AllocSegment": {
+                        "dst": {
+                            "register": "FP",
+                            "offset": 3
+                        }
+                    }
+                }
+            ]
+        ],
+        [
+            294,
+            [
+                {
+                    "InitSquashData": {
+                        "dict_accesses": {
+                            "Deref": {
+                                "register": "FP",
+                                "offset": -4
+                            }
+                        },
+                        "ptr_diff": {
+                            "Deref": {
+                                "register": "FP",
+                                "offset": 0
+                            }
+                        },
+                        "n_accesses": {
+                            "Deref": {
+                                "register": "AP",
+                                "offset": -1
+                            }
+                        },
+                        "big_keys": {
+                            "register": "FP",
+                            "offset": 2
+                        },
+                        "first_key": {
+                            "register": "FP",
+                            "offset": 1
+                        }
+                    }
+                }
+            ]
+        ],
+        [
+            313,
+            [
+                {
+                    "GetCurrentAccessIndex": {
+                        "range_check_ptr": {
+                            "Deref": {
+                                "register": "FP",
+                                "offset": -9
+                            }
+                        }
+                    }
+                }
+            ]
+        ],
+        [
+            326,
+            [
+                {
+                    "ShouldSkipSquashLoop": {
+                        "should_skip_loop": {
+                            "register": "AP",
+                            "offset": -4
+                        }
+                    }
+                }
+            ]
+        ],
+        [
+            328,
+            [
+                {
+                    "GetCurrentAccessDelta": {
+                        "index_delta_minus1": {
+                            "register": "AP",
+                            "offset": 0
+                        }
+                    }
+                }
+            ]
+        ],
+        [
+            339,
+            [
+                {
+                    "ShouldContinueSquashLoop": {
+                        "should_continue": {
+                            "register": "AP",
+                            "offset": -4
+                        }
+                    }
+                }
+            ]
+        ],
+        [
+            353,
+            [
+                {
+                    "GetNextDictKey": {
+                        "next_key": {
+                            "register": "FP",
+                            "offset": 0
+                        }
+                    }
+                }
+            ]
+        ],
+        [
+            372,
+            [
+                {
+                    "AssertLeFindSmallArcs": {
+                        "range_check_ptr": {
+                            "BinOp": {
+                                "op": "Add",
+                                "a": {
+                                    "register": "AP",
+                                    "offset": -4
+                                },
+                                "b": {
+                                    "Immediate": "0x1"
+                                }
+                            }
+                        },
+                        "a": {
+                            "Deref": {
+                                "register": "FP",
+                                "offset": -6
+                            }
+                        },
+                        "b": {
+                            "Deref": {
+                                "register": "FP",
+                                "offset": 0
+                            }
+                        }
+                    }
+                }
+            ]
+        ],
+        [
+            384,
+            [
+                {
+                    "AssertLeIsFirstArcExcluded": {
+                        "skip_exclude_a_flag": {
+                            "register": "AP",
+                            "offset": 0
+                        }
+                    }
+                }
+            ]
+        ],
+        [
+            396,
+            [
+                {
+                    "AssertLeIsSecondArcExcluded": {
+                        "skip_exclude_b_minus_a": {
+                            "register": "AP",
+                            "offset": 0
+                        }
+                    }
+                }
+            ]
+        ]
+    ],
+    "entry_points_by_function": {
+        "main": {
+            "offset": 0,
+            "builtins": [
+                "range_check",
+                "segment_arena",
+                "gas_builtin",
+                "pedersen"
+            ],
+            "input_args": [
+                {
+                    "size": 2,
+                    "debug_name": "Array<felt252>"
+                }
+            ],
+            "return_arg": [
+                {
+                    "size": 3,
+                    "debug_name": "core::panics::PanicResult::<(core::array::Array::<core::felt252>,)>",
+                    "panic_inner_type": {
+                        "size": 2,
+                        "debug_name": "Tuple<Array<felt252>>"
+                    }
+                }
+            ]
+        },
+        "main[expr15]": {
+            "offset": 65,
+            "builtins": [],
+            "input_args": [
+                {
+                    "size": 2,
+                    "debug_name": "Array<felt252>"
+                },
+                {
+                    "size": 1,
+                    "debug_name": "Felt252Dict<felt252>"
+                },
+                {
+                    "size": 1,
+                    "debug_name": "felt252"
+                }
+            ],
+            "return_arg": [
+                {
+                    "size": 1,
+                    "debug_name": "felt252"
+                }
+            ]
+        },
+        "main[expr42]": {
+            "offset": 88,
+            "builtins": [
+                "range_check",
+                "segment_arena",
+                "gas_builtin",
+                "pedersen"
+            ],
+            "input_args": [
+                {
+                    "size": 1,
+                    "debug_name": "felt252"
+                },
+                {
+                    "size": 1,
+                    "debug_name": "felt252"
+                },
+                {
+                    "size": 1,
+                    "debug_name": "Felt252Dict<felt252>"
+                },
+                {
+                    "size": 2,
+                    "debug_name": "Array<felt252>"
+                }
+            ],
+            "return_arg": [
+                {
+                    "size": 5,
+                    "debug_name": "core::panics::PanicResult::<(core::dict::Felt252Dict::<core::felt252>, core::array::Array::<core::felt252>, core::felt252, ())>",
+                    "panic_inner_type": {
+                        "size": 4,
+                        "debug_name": "Tuple<Felt252Dict<felt252>, Array<felt252>, felt252, Unit>"
+                    }
+                }
+            ]
+        },
+        "squash": {
+            "offset": 237,
+            "builtins": [
+                "range_check",
+                "segment_arena",
+                "gas_builtin"
+            ],
+            "input_args": [
+                {
+                    "size": 1,
+                    "debug_name": "Felt252Dict<felt252>"
+                }
+            ],
+            "return_arg": [
+                {
+                    "size": 2,
+                    "debug_name": "SquashedFelt252Dict<felt252>"
+                }
+            ]
+        }
+    }
+}
